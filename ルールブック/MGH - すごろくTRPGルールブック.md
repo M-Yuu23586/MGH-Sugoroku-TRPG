@@ -1,7 +1,5 @@
 # 🌌 MUGEN GALAXY HORIZON - すごろくTRPGルールブック
 
-## はじめに
-
 **MUGEN GALAXY HORIZONの世界へようこそ！**
 
 🌠 **このゲームは、すごろくの楽しさとテーブルトークRPG（TRPG）の冒険を組み合わせた、新しいタイプのゲームです。**
