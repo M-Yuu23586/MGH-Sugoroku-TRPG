@@ -1,4 +1,4 @@
-# Security　Policy
+# SecurityPolicy
 
 ## 目次
 
