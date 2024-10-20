@@ -1,0 +1,26 @@
+/* カスタムCSSテーマ - 左揃え */
+.slidev-layout {
+  text-align: left;
+  font-family: 'Arial', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: left;
+}
+
+.slidev-layout.center,
+.slidev-layout.center-center {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.slidev-layout.center h1,
+.slidev-layout.center-center h1 {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
