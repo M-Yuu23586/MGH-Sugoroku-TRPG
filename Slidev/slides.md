@@ -32,8 +32,7 @@ css: unocss
 無限に広がる銀河の冒険を紹介
 
 > TRPG（テーブルトーク・ロールプレイング・ゲーム）の壮大な宇宙の旅が楽しめます。
-
-> _あなたはプレイヤーとなり、宇宙の神秘の謎を解き明かします。_
+<br>_あなたは、壮大な宇宙に潜む神秘の謎を解き明かし、冒険します。_
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/MGH-Sugoroku-TRPG" target="_blank" alt="GitHub"
@@ -55,7 +54,7 @@ css: unocss
 - マルチツールのテンプレート
 - ルールブック
 - 宇宙船関連シートのテンプレート
-- Slide資料
+- Slidev資料
 
 </v-clicks>
 
