@@ -14,11 +14,6 @@ then
     exit 1
 fi
 
-# Slidev-material/bash/install.bash
-#!/bin/bash
-
-# ... 既存のコード ...
-
 # インストール状況を表示する関数
 show_progress() {
     local duration=10  # アニメーションの持続時間（秒）
