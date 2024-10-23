@@ -1,11 +1,11 @@
 ---
 # try also 'default' to start simple
-theme: seriph
+theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # apply any unocss classes to the current slide
-class: 'text-center'
+class: 'text-left'
 # some information about the slides, markdown enabled
 info: |
   ## Slidev Starter Template
@@ -13,14 +13,14 @@ info: |
 
   Learn more at [Sli.dev](https://sli.dev)
 transition: slide-left
-title: Welcome to Slidev
+title: MUGEN GALAXY HRIZON
 mdc: true
 ---
 
 
-# **MUGEN GALAXY HRIZON**
+# MUGEN GALAXY HRIZON
 
-## 無限に広がる銀河の冒険へようこそ！✨
+無限に広がる銀河の冒険へようこそ！✨
 
 ---
 
