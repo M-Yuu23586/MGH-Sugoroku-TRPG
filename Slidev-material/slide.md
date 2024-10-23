@@ -1,12 +1,11 @@
 ---
 theme: default
-background: 
+background: Slidev-material/img/nicolas-lobos-unsplash.jpg
 class: 'text-center'
 transition: slide-left
 title: Welcome to Slidev
 mdc: true
 ---
-
 
 # MUGEN GALAXY HRIZON
 
