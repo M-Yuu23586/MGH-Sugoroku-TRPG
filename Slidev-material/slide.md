@@ -5,7 +5,6 @@ class: 'text-center'
 transition: slide-left
 title: Welcome to Slidev
 mdc: true
-
 ---
 
 
