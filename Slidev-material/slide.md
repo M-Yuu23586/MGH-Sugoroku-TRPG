@@ -1,45 +1,26 @@
 ---
-# try also 'default' to start simple
 theme: default
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
-# apply any unocss classes to the current slide
+background: 
 class: 'text-center'
-# some information about the slides, markdown enabled
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 transition: slide-left
 title: Welcome to Slidev
 mdc: true
+
 ---
 
 
-# **MUGEN GALAXY HRIZON**
+# MUGEN GALAXY HRIZON
 
 無限に広がる銀河の冒険へようこそ！✨
+<div class="pt-12">
+  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Press Space for next page <carbon:arrow-right class="inline"/>
+  </span>
+</div>
 
 ---
 
-## ディレクトリ構成 🌌
-
-<div style="display: flex; flex-wrap: wrap;">
-
-<div style="flex: 1; padding: 10px; color: gray;">
-このディレクトリ構成には、TRPGを進行するためのあらゆるツールやガイドがそろっています。📚
-
-各フォルダにはキャラクターの作成に役立つ資料があります。📝
-
-また、シナリオの進行をサポートするガイドや、ゲームマスター向けの管理ツールも揃っています。🎲
-
-以下、各ディレクトリとその内容について詳しく説明します。
-</div>
-
-<div style="flex: 1; padding: 10px; ">
-<h3>ディレクトリ構成一覧</h3>
+## ディレクトリ構成一覧
 
 1. NPCリスト
 2. キャラシートのテンプレート
@@ -48,9 +29,18 @@ mdc: true
 5. マルチツールのテンプレート
 6. ルールブック
 7. 宇宙船関連シートのテンレート
-</div>
 
-</div>
+---
+
+## はじめに
+このディレクトリ構成には、TRPGを進行するためのあらゆるツールやガイドがそろっています。📚
+
+各フォルダにはキャラクターの作成に役立つ資料があります。📝
+
+また、シナリオの進行をサポートするガイドや、ゲームマスター向けの管理ツールも揃っています。🎲
+
+以下、各ディレクトリとその内容について詳しく説明します。
+
 ---
 
 ### 1. NPCリスト 📜
