@@ -5,7 +5,7 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # apply any unocss classes to the current slide
-class: 'text-left'
+class: 'text-center'
 # some information about the slides, markdown enabled
 info: |
   ## Slidev Starter Template
@@ -13,12 +13,12 @@ info: |
 
   Learn more at [Sli.dev](https://sli.dev)
 transition: slide-left
-title: MUGEN GALAXY HRIZON
+title: Welcome to Slidev
 mdc: true
 ---
 
 
-# MUGEN GALAXY HRIZON
+# **MUGEN GALAXY HRIZON**
 
 無限に広がる銀河の冒険へようこそ！✨
 
